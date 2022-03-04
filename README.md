@@ -1,6 +1,7 @@
 ***Proyecto 05***
 
-# PROYECTO FINAL 2º TRIMESTRE (BBDD CON MONGODB) 📄
+# PROYECTO FINAL 2º TRIMESTRE 📄 
+# (BBDD CON MONGODB) 
 
 **Proyecto creado por Raúl Benítez**
 
