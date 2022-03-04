@@ -17,15 +17,12 @@ Carpeta src (con los archivos .js), carpeta doc (con un pdf que explique los asp
 .  
 .  
 
- **¿En qué consiste mi proyecto? ✒️**
+**¿En qué consiste mi proyecto? ✒️**
 
 Mi proyecto consiste en una base de datos de una discográfica mundialmente conocida que gestiona toda la música de los cantantes más míticos de las últimas decadas.
 
 Principalmente vamos a encontrar varias colecciones organizadas por los ***artistas*** que pertenecen a esta discográfica, los ***lanzamientos*** que han hecho con la discográfica y, todas las ***canciones*** que pueden escuchar en esos lanzamientos.
 
-Estas colecciones contendrán campos únicos con respecto a la colección que se refiera.
-
-La finalidad de este proyecto es realizar consultas para poder facilitar la información de nuestra base de datos a nuestros clientes
-
+La finalidad de este proyecto es realizar consultas complejas con todos los operadores y todos los métodos vistos en clase, relacionando unas colecciones con otras.
 
 
