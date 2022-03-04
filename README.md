@@ -4,7 +4,7 @@
 
 **Proyecto creado por Raúl Benítez**
 
-El proyecto consiste en realizar una base de datos lo más semejante posible a cualquier base de datos que nos podemos encontrar en el mundo real
+El proyecto consiste en realizar una base de datos lo más semejante posible a cualquier base de datos que nos podemos encontrar en el mundo real.
 
 Realizaremos el proyecto subiéndolo a nuestro repositorio GitHub con la estructura vista en clase:
 
@@ -18,6 +18,8 @@ Carpeta src (con los archivos .js), carpeta doc (con un pdf que explique los asp
 Mi proyecto consiste en una base de datos de una discográfica mundialmente conocida que gestiona toda la música de los cantantes más míticos de las últimas decadas.
 
 Principalmente vamos a encontrar varias colecciones organizadas por los ***artistas*** que pertenecen a esta discográfica, los ***lanzamientos*** que han hecho con nuestra discográfica y, todas sus ***canciones*** que pueden escuchar.
+
+La finalidad de este proyecto es realizar consultas para poder facilitar la información de nuestra base de datos a nuestros clientes
 
 
 
