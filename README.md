@@ -13,13 +13,16 @@ Realizaremos el proyecto subiéndolo a nuestro repositorio GitHub con la estruct
 Carpeta src (con los archivos .js), carpeta doc (con un pdf que explique los aspectos teóricos, técnicos y lo que pretende tu proyecto) y, un archivo README.md (https://youtu.be/6WlDQSAE2VE) con una breve explicación del proyecto.
 
 ```
-
-
-**¿En qué consiste mi proyecto? ✒️**
+  
+  
+  
+  **¿En qué consiste mi proyecto? ✒️**
 
 Mi proyecto consiste en una base de datos de una discográfica mundialmente conocida que gestiona toda la música de los cantantes más míticos de las últimas decadas.
 
-Principalmente vamos a encontrar varias colecciones organizadas por los ***artistas*** que pertenecen a esta discográfica, los ***lanzamientos*** que han hecho con nuestra discográfica y, todas sus ***canciones*** que pueden escuchar.
+Principalmente vamos a encontrar varias colecciones organizadas por los ***artistas*** que pertenecen a esta discográfica, los ***lanzamientos*** que han hecho con la discográfica y, todas las ***canciones*** que pueden escuchar en esos lanzamientos.
+
+Estas colecciones contendrán campos únicos con respecto a la colección que se refiera.
 
 La finalidad de este proyecto es realizar consultas para poder facilitar la información de nuestra base de datos a nuestros clientes
 
