@@ -23,6 +23,6 @@ Mi proyecto consiste en una base de datos de una discográfica mundialmente cono
 
 Principalmente vamos a encontrar varias colecciones organizadas por los ***artistas*** que pertenecen a esta discográfica, los ***lanzamientos*** que han hecho con la discográfica y, todas las ***canciones*** que pueden escuchar en esos lanzamientos.
 
-La finalidad de este proyecto es realizar consultas complejas con todos los operadores y todos los métodos vistos en clase, relacionando unas colecciones con otras.
+La finalidad de este proyecto es realizar consultas complejas con todos los operadores y todos los métodos vistos en clase, relacionando unas colecciones con otras y, la utilización de Mongo Atlas en el proyecto.
 
 
