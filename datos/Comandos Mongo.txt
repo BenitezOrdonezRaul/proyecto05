@@ -1,3 +1,23 @@
+Comandos para importar colecciones en modo local.
+
+* mongoimport --db test --collection artistas --file C:\Users\rrbnz\PRUEBAS\import\artistas.json
+
+* mongoimport --db test --collection lanzamientos --file C:\Users\rrbnz\PRUEBAS\import\lanzamientos.json
+
+* mongoimport --db test --collection canciones --file C:\Users\rrbnz\PRUEBAS\import\canciones.json
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Comandos para exportar colecciones en modo local.
+
+* mongoexport --collection=artistas --out C:\Users\rrbnz\PRUEBAS\import\artistas.json
+
+* mongoexport --collection=canciones --out C:\Users\rrbnz\PRUEBAS\import\canciones.json
+
+* mongoexport --collection=lanzamientos --out C:\Users\rrbnz\PRUEBAS\import\lanzamientos.json
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Comandos para importar las colecciones de nuestra BBDD a nuestro clúster de Atlas.
 
 * mongoimport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/Cluster0 --collection artistas --type json --file C:\Users\rrbnz\PRUEBAS\import\artistas.json
@@ -5,7 +25,6 @@ Comandos para importar las colecciones de nuestra BBDD a nuestro clúster de Atl
 * mongoimport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/cluster0 --collection lanzamientos --type json --file C:\Users\rrbnz\PRUEBAS\import\lanzamientos.js
 
 * mongoimport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/cluster0 --collection canciones --type json --file C:\Users\rrbnz\PRUEBAS\import\canciones.js
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
