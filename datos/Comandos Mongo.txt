@@ -1,0 +1,18 @@
+Comandos para importar las colecciones de nuestra BBDD a nuestro clúster de Atlas.
+
+* mongoimport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/Cluster0 --collection artistas --type json --file C:\Users\rrbnz\PRUEBAS\import\artistas.json
+
+* mongoimport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/cluster0 --collection lanzamientos --type json --file C:\Users\rrbnz\PRUEBAS\import\lanzamientos.js
+
+* mongoimport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/cluster0 --collection canciones --type json --file C:\Users\rrbnz\PRUEBAS\import\canciones.js
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Comandos para exportar las colecciones de nuestro clúster de Atlas a nuestro ordenador.
+
+* mongoexport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/Cluster0 --collection artistas --type json --out C:\Users\rrbnz\PRUEBAS\import\artistas.json
+
+* mongoexport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/Cluster0 --collection lanzamientos --type json --out C:\Users\rrbnz\PRUEBAS\import\lanzamientos.json
+
+* mongoexport --uri mongodb+srv://admin:admin@cluster0.3rqxh.mongodb.net/Cluster0 --collection canciones --type json --out C:\Users\rrbnz\PRUEBAS\import\canciones.json

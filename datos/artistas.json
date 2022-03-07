@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c077"
+  },
+  "artista": "Marvin Gaye",
+  "nacionalidad": "Estadounidense",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-252460800000"
+    }
+  },
+  "num_discos": 27,
+  "genero_musical": [
+    "Soul",
+    "Pop",
+    "R&B"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c078"
+  },
+  "artista": "The Beatles",
+  "nacionalidad": "Británicos",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-315619200000"
+    }
+  },
+  "num_discos": 17,
+  "genero_musical": [
+    "Rock",
+    "Art Rock",
+    "Balada",
+    "Rock psicodélico",
+    "Pop barroco",
+    "Música experimental"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c079"
+  },
+  "artista": "Stevie Wonder",
+  "nacionalidad": "Estadounidense",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-220924800000"
+    }
+  },
+  "num_discos": 31,
+  "genero_musical": [
+    "Soul",
+    "R&B",
+    "Funk",
+    "Jazz",
+    "Pop"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c07a"
+  },
+  "artista": "Nirvana",
+  "nacionalidad": "Estadounidenses",
+  "fecha_inicio": {
+    "$date": "1987-01-01T00:00:00Z"
+  },
+  "num_discos": 15,
+  "genero_musical": [
+    "Grunge",
+    "Rock alternativo"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c07b"
+  },
+  "artista": "Radiohead",
+  "nacionalidad": "Británico",
+  "fecha_inicio": {
+    "$date": "1985-01-01T00:00:00Z"
+  },
+  "num_discos": 18,
+  "genero_musical": [
+    "Art rock",
+    "Rock alternativo",
+    "Electrónica",
+    "Rock experimental",
+    "Art pop"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c07c"
+  },
+  "artista": "The Beach Boys",
+  "nacionalidad": "Estadounidenses",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-283996800000"
+    }
+  },
+  "num_discos": 29,
+  "genero_musical": [
+    "Pop",
+    "Rock",
+    "Surf",
+    "Psicodelia"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c07d"
+  },
+  "artista": "Coldplay",
+  "nacionalidad": "Británicos",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-126230400000"
+    }
+  },
+  "num_discos": 21,
+  "genero_musical": [
+    "Pop rock",
+    "Rock alternativo",
+    "Britpop",
+    "Pop"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c07e"
+  },
+  "artista": "The Rolling Stones",
+  "nacionalidad": "Británicos",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-283996800000"
+    }
+  },
+  "num_discos": 33,
+  "genero_musical": [
+    "Rock and roll",
+    "Blues",
+    "R&B",
+    "Pop rock",
+    "Pop/Rock psicodélico",
+    "Soul rock"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c07f"
+  },
+  "artista": "Aretha Franklin",
+  "nacionalidad": "Estadounidense",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-315619200000"
+    }
+  },
+  "num_discos": 40,
+  "genero_musical": [
+    "Soul",
+    "Funk",
+    "Góspel",
+    "Pop",
+    "Pop rock",
+    "Jazz",
+    "R&B"
+  ]
+},{
+  "_id": {
+    "$oid": "622511dab367cf2f2f22c080"
+  },
+  "artista": "Pink Floyd",
+  "nacionalidad": "Británico",
+  "fecha_inicio": {
+    "$date": {
+      "$numberLong": "-189388800000"
+    }
+  },
+  "num_discos": 22,
+  "genero_musical": [
+    "Rock progresivo",
+    "Art rock",
+    "Rock psicodélico",
+    "Rock experimental",
+    "Rock sinfónico"
+  ]
+}]
